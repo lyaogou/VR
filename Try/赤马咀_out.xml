@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<panorama>
+<view fovmode="0">
+<start pan="0" tilt="0" fov="70"/>
+<min pan="0" tilt="-90" fov="5"/>
+<max pan="360" tilt="90" fov="120"/>
+</view>
+<input tilesize="1500" tilescale="1.00667" tile0url="赤马咀/赤马咀_out_0.jpg" tile1url="赤马咀/赤马咀_out_1.jpg" tile2url="赤马咀/赤马咀_out_2.jpg" tile3url="赤马咀/赤马咀_out_3.jpg" tile4url="赤马咀/赤马咀_out_4.jpg" tile5url="赤马咀/赤马咀_out_5.jpg" />
+<userdata title="" description="" author="" datetime="" copyright="" source="" info="" comment="" />
+<control sensitifity="8" simulatemass="1" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" invertwheel="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" />
+<hotspots width="180" height="20" wordwrap="1" >
+<hotspot id="new" skinid="1" pan="-111.267" tilt="6.87578" title="切换至数媒楼" url="数媒楼.html" target="target" />
+<form id="form1" name="form1" method="post" action="数媒楼.html">
+  <label>
+  <input type="submit" name="Submit" value="返回" />
+  </label>
+</form>
+</hotspots>
+<sounds>
+</sounds>
+</panorama>
